@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+
+.btn {
+  color: rgb(40, 227, 49);
+  border-color: rgb(40, 227, 49);;
+}
+
+img {
+  height: 450px;
+}
+
+.carousel {
+  margin: 56px;
+}
